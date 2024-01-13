@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="ct" name="Collaborative Tools"
+                  start-page="Collaborative-Tools.md">
+
+    <toc-element topic="Collaborative-Tools.md"/>
+    <toc-element topic="Setting-up-a-Github-account.md"/>
+    <toc-element topic="Managing-Github-through-JetBrains-programs.md"/>
+    <toc-element topic="Setting-Up-Google-Colaboratory.md"/>
+</instance-profile>
