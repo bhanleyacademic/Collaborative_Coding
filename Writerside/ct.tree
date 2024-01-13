@@ -6,7 +6,10 @@
                   start-page="Collaborative-Tools.md">
 
     <toc-element topic="Collaborative-Tools.md"/>
-    <toc-element topic="Setting-up-a-Github-account.md"/>
-    <toc-element topic="Managing-Github-through-JetBrains-programs.md"/>
     <toc-element topic="Setting-Up-Google-Colaboratory.md"/>
+    <toc-element topic="Setting-up-a-Github-account.md"/>
+    <toc-element topic="Setting-up-Pycharm.md"/>
+    <toc-element topic="Setting-up-DataSpell.md"/>
+    <toc-element topic="Managing-Github-through-JetBrains-programs.md"/>
+    <toc-element topic="Using-Writerside-as-a-note-system-in-math-classes.md"/>
 </instance-profile>
