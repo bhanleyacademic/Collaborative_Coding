@@ -7,6 +7,7 @@
 ## Tutorials
 - [Setting up Google Colaboratory](Setting-Up-Google-Colaboratory.md)
 - [Setting up a GitHub account](Setting-up-a-Github-account.md)
+- [Project 1 Useful Python Code](Project-1-Useful-Python-Programming.md)
 
 ### Tools I use in classes
 - [Setting up PyCharm](Setting-up-Pycharm.md) - Python programming
